@@ -84,7 +84,7 @@ Although you can use them, for a more unique website, replace these images with 
 						</ul> -->
 					</li>
 
-					</li>
+				<!--	</li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Clients <span class="caret"></span></a>
 						<ul class="dropdown-menu" aria-labelledby="about-us">
@@ -92,7 +92,7 @@ Although you can use them, for a more unique website, replace these images with 
 							<li><a href="#">Wipro</a></li>
 							<li><a href="#">Microsoft</a></li>
 						</ul>
-					</li>
+					</li> -->
                     <li>
 			<a href="#">Contact</a>
                     </li>
