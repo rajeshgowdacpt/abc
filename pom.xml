@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>webapp1</finalName>
+		<finalName>abc</finalName>
 		
 		<plugins>
 			<plugin>
